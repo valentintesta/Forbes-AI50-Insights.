@@ -1,7 +1,7 @@
 # Forbes-AI50-Insights.
 
 
-## This notebook is intended to :
+## Objective :
 
 - Provide a comprehensive step-by-step Exploratory Data Analysis (EDA) for the data in Forbes AI 50 lists for 2022 and 2023.
 - Collect and discuss the insights, whether straightforward or hidden, as figured out during such an EDA.
